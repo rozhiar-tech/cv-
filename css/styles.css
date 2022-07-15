@@ -1,5 +1,7 @@
 body {
-    background-color: #D3EBCD;
+    background-color: white;
+    margin: 0;
+    text-align: center;
 }
 hr{
     border-color: grey;
@@ -7,6 +9,26 @@ hr{
     border-width: 5px;
     width: 10%;
 }
-h1,h3{
+h1{
     color: #839AA8;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 0;
+
+    
+}
+.top-container{
+    background-color:#AEDBCE;
+    margin-top: 0;
+    margin-left: 0;
+}
+.middle-container{
+    background-color:red;
+    width: 200px;
+    height: 200px;
+}
+.bottom-container{
+    background-color:blue;
+    width: 200px;
+    height: 200px;
 }
